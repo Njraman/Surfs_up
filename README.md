@@ -58,3 +58,18 @@ The following additional queries can be written to study weather conditions:
 From the above it can be observed that the average precipitation is lower in June than in December, but the difference is not too high. Also the average precipitation in both seasons is low enough to make the surf and ice cream shop a viable business in the area.
 
 ### __Temperature observations near preferred location:__
+
+Another set of queries can be run to get the temperature and precipitation readings for the most active weather station, which according to the client, would provide the most information to determine be the preferred location for the shop. It is known that the client is pasionat about this location and this would be the station closest to the proposed location of the shop.
+
+The following images show the results of the queries:
+
+### June results from the Station:
+
+![Station_results_June](Resources/Station_results_June.png)
+
+
+### December results from the station:
+
+![Station_results_Dec](Resources/Station_results_Dec.png)
+
+It can be observed from this data that the average temperature is lower in December than in June, while the average precipitation is higher in December than in June, at this location. However the difference between these parameters is not too large between the two seasons,at this location. Therefore this location may be ideal to set up the surf and ice cream business.
